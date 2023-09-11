@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **PHP e Laravel Framework.**
+  🦄 Linguagens: **PHP e Laravel Framework em ambiente Linux (Manjaro).**
 </p>
 
 <p align="left">
