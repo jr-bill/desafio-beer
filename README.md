@@ -19,10 +19,12 @@
 </p>
 
 <p align="left">
-    - Já uso Docker, mas não uso o Sail, normalmente uso uma imagem do Alpine Linux mais enxuta.
-    - Já uso Laravel tem algum tempo, então o processo de instalação foi tranquilo.
-    - Preferi usar o NVIM (as vezes uso o VSCode) para o curso, pois uso no dia a dia.
-    - O único "desafio" foi que o github desde 2021 modificou o acesso de login pelo terminal.
-        Então para publicar o README.md foi necessário gerar um TOKEN no github e usar na autenticação.
+    <ul>
+      <li>Já uso Docker, mas não uso o Sail, normalmente uso uma imagem do Alpine Linux mais enxuta.</li>
+      <li>Já uso Laravel tem algum tempo, então o processo de instalação foi tranquilo.</li>
+      <li>Preferi usar o NVIM (as vezes uso o VSCode) para o curso, pois uso no dia a dia.</li>
+      <li>O único "desafio" foi que o github desde 2021 modificou o acesso de login pelo terminal.</li>
+      <li>Então para publicar o README.md foi necessário gerar um TOKEN no github e usar na autenticação.</li>
+    </ul>
 </p>
 
